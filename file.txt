@@ -1,4 +1,0 @@
-./hello.py:#!/usr/bin/env python3
-./list_methods.py:#!/usr/bin/env python3
-./tuple.py:#!/usr/bin/env python3
-./list.py:#!/usr/bin/env python3
